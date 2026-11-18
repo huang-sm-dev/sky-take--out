@@ -6,11 +6,11 @@ sky:
     database: sky_take_out
     username: root
     password: "你的密码"
-  alioss:
-    endpoint: "你的endpoint"
-    access-key-id: "你的access-key-id"
-    access-key-secret: "你的access-key-secret"
-    bucket-name: "你的bucket-name"
+#  alioss:
+#    endpoint: "你的endpoint"
+#    access-key-id: "你的access-key-id"
+#    access-key-secret: "你的access-key-secret"
+#    bucket-name: "你的bucket-name"
   redis:
     host: localhost
     port: 6379
